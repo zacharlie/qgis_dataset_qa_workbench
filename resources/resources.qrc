@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/checklist_checker" >
-        <file>clipboard-check-solid.svg</file>
-    </qresource>
-</RCC>
